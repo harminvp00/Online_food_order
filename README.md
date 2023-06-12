@@ -1,2 +1,7 @@
 # Online_food_order
-project source code of online food order system with six class and concept to oop in c++.
+collage micro project
+subject : Boop
+used concept of oop
+about online food order system hoe works
+project type : softwere source code
+used programmng language : c++
