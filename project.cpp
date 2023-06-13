@@ -249,8 +249,8 @@ void option :: menu_list()
         fstream fp;
         ofstream out;
         ifstream in;
-        in.open("history.txt",ios::app);
-        out.open ("history.txt"); 
+        in.open("history.txt");
+        out.open ("history.txt",ios::app); 
         out<<"order submit successfully.\n";
         cout<<"Order Is Recorded"<<endl;
         in.close();
