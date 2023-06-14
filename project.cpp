@@ -2,15 +2,11 @@
 //  included header files list 
 
 #include<iostream>  // c++ program must need iostream to run, it's not optional
-#include<conio.h>   // for use clrscr(); function, it's optional
 #include<iomanip>   // for use manipulator like setw, setfill etc...
 #include<fstream>   // file that store user's order
-#include<string>
 
 // it's necessary for declare stadard name like cout, cin, endl etc...
 using namespace std;
-
-
 
 // that function use only for output style
 void line()
